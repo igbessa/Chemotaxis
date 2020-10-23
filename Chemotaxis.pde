@@ -9,7 +9,7 @@
  
  void draw(){    
    //move and show the bees  
-   background(200);
+   background(235, 255, 250);
    for(int j = 0; j < ron.length; j++){
      ron[j].show();
      ron[j].move();
